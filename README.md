@@ -1,2 +1,2 @@
-# coursera-data-science
-Repository for coursera data science course assignments
+# Coursera IBM Data Science Certificate course
+This repository is for coursera data science course assignments
